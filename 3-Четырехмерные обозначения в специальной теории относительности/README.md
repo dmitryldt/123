@@ -18,4 +18,4 @@ $x^\mu=\sum_{\nu=0}^3 \gamma^\mu{ }_\nu x^{\prime}{ }^\nu$,
 
 где в частном случае выбора систем координат матрица преобразований γ имеет вид:
 
-$\gamma^\mu{ }_\nu=\left|\begin{array}{cccc}\frac{1}{\sqrt{1-v^2 / c^2}} & \frac{v / c}{\sqrt{1-v^2 / c^2}} & 0 & 0 \\ \frac{v / c}{\sqrt{1-v^2 / c^2}} & \frac{1}{\sqrt{1-v^2 / c^2}} & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{array}\right|$
+$\gamma^\mu{ }_\nu=\begin{bmatrix}\frac{1}{\sqrt{1-v^2 / c^2}} & \frac{v / c}{\sqrt{1-v^2 / c^2}} & 0 & 0 \\ \frac{v / c}{\sqrt{1-v^2 / c^2}} & \frac{1}{\sqrt{1-v^2 / c^2}} & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix}$
